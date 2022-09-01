@@ -1,1 +1,1 @@
-this repository contain the solution to the 0x00-shell tasks
+scriptthat print the absolute path name for the current working directory
